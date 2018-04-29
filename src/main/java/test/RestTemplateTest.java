@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import net.sf.json.JSONObject;
 
 public class RestTemplateTest {
-	
+	 ggg
 	 static SimpleClientHttpRequestFactory factory;
 	 static String  jsessionid = "2253E98C0A38D3BEC6F617C44E967990";
 	 
@@ -19,7 +19,7 @@ public class RestTemplateTest {
 	factory = new SimpleClientHttpRequestFactory();
 		factory.setConnectTimeout(20000);
 		
-		
+		sdgvre
 		
 	
 		
