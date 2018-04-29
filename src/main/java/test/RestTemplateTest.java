@@ -18,7 +18,6 @@ public class RestTemplateTest {
 	 
 	 static String  token = "545741b692668b95c7d33a0e9b41830a";
 	 
-
 	public static void main(String[] args) {
 	factory = new SimpleClientHttpRequestFactory();
 		factory.setConnectTimeout(20000);
